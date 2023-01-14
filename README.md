@@ -2,8 +2,8 @@
 Borland C++ Implementation of Tic Tac Toe (play with the machine) and Hangman with a user-login system and a nostalgic 90s UI.
 
 <p align="center">
-  <img src="https://github.com/nithishakumar/Cyber-Arcade/blob/main/UI%20Images/Cyber%20Arcade%20UI%201.jpg" />
-  <img src="https://github.com/nithishakumar/Cyber-Arcade/blob/main/UI%20Images/Hangman%20UI%202.jpg" />
+  <img src="https://github.com/nithishakumar/Cyber-Arcade/blob/main/UI%20Images/Cyber%20Arcade%20UI%201.jpg" /> <br>
+  <img src="https://github.com/nithishakumar/Cyber-Arcade/blob/main/UI%20Images/Hangman%20UI%202.jpg" /> <br>
   <img src="https://user-images.githubusercontent.com/73742037/212495740-5377b1d9-ccd7-4997-b14e-1e27fc1f8055.png" />
 </p>
 
